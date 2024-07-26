@@ -1,0 +1,6 @@
+{
+  "dotnet.defaultSolution": "StoreAPIs.sln",
+  "[csharp]": {
+    "editor.defaultFormatter": "csharpier.csharpier-vscode"
+  }
+}
