@@ -17,8 +17,7 @@ namespace StoreDataAccess.Configs
             builder
                 .Property(x => x.DisplayOrder)
                 .IsRequired()
-                .HasAnnotation("DisplayName", "Display Order")
-                .HasAnnotation("Range", (1, 100));
+                .HasAnnotation("DisplayName", "Display Order");
             builder.Property(x => x.Description).IsRequired(false);
         }
     }
