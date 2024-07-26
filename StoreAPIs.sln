@@ -9,8 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreDataAccess", "StoreDat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreModels", "StoreModels\StoreModels.csproj", "{868C9F4F-4F19-49D2-85EF-BCA8ECE9C2DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreUtility", "StoreUtility\StoreUtility.csproj", "{0C35030B-80E0-474B-ADA8-56E1BD1006A0}"
-EndProject
+
 
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
