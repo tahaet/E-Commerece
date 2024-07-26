@@ -1,0 +1,13 @@
+G:\Courses\asp.net core\E-CommerceAPIs\StoreModels\bin\Debug\net8.0\StoreModels.deps.json
+G:\Courses\asp.net core\E-CommerceAPIs\StoreModels\bin\Debug\net8.0\StoreModels.dll
+G:\Courses\asp.net core\E-CommerceAPIs\StoreModels\bin\Debug\net8.0\StoreModels.pdb
+G:\Courses\asp.net core\E-CommerceAPIs\StoreModels\obj\Debug\net8.0\StoreModels.csproj.AssemblyReference.cache
+G:\Courses\asp.net core\E-CommerceAPIs\StoreModels\obj\Debug\net8.0\StoreModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Courses\asp.net core\E-CommerceAPIs\StoreModels\obj\Debug\net8.0\StoreModels.AssemblyInfoInputs.cache
+G:\Courses\asp.net core\E-CommerceAPIs\StoreModels\obj\Debug\net8.0\StoreModels.AssemblyInfo.cs
+G:\Courses\asp.net core\E-CommerceAPIs\StoreModels\obj\Debug\net8.0\StoreModels.csproj.CoreCompileInputs.cache
+G:\Courses\asp.net core\E-CommerceAPIs\StoreModels\obj\Debug\net8.0\StoreModels.sourcelink.json
+G:\Courses\asp.net core\E-CommerceAPIs\StoreModels\obj\Debug\net8.0\StoreModels.dll
+G:\Courses\asp.net core\E-CommerceAPIs\StoreModels\obj\Debug\net8.0\refint\StoreModels.dll
+G:\Courses\asp.net core\E-CommerceAPIs\StoreModels\obj\Debug\net8.0\StoreModels.pdb
+G:\Courses\asp.net core\E-CommerceAPIs\StoreModels\obj\Debug\net8.0\ref\StoreModels.dll
