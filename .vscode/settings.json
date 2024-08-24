@@ -1,0 +1,7 @@
+{
+  "dotnet.defaultSolution": "E-CommerceAPIs.sln",
+  "[csharp]": {
+    "editor.defaultFormatter": "csharpier.csharpier-vscode"
+  },
+  "editor.formatOnSave": true
+}
